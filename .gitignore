@@ -1,0 +1,4 @@
+/checkpoints
+*.pkl*
+*.csv
+*.mp4
